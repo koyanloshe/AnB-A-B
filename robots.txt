@@ -1,0 +1,9 @@
+
+User-agent: *
+Disallow: /staging
+Disallow: /simpleinvoices
+Disallow: /form
+Disallow: /includes
+Disallow: /lib
+
+Sitemap: https://www.aandb.xyz/sitemap.xml

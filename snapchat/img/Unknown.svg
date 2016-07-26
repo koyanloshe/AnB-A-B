@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="341px" height="699px" viewBox="0 0 341 699" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Masked Phone Wireframe</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Ads-Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Snapchat-Ads---Landing-Page-v5-3-(Desktop)" transform="translate(-802.000000, -1435.000000)">
+            <g id="Body" transform="translate(-15.000000, 1336.000000)">
+                <g id="Ad-Products">
+                    <g id="3V-Ads" transform="translate(15.000000, 0.000000)">
+                        <g id="Masked-Phone-Wireframe" transform="translate(801.730469, 99.000000)">
+                            <g transform="translate(0.410909, 0.051350)">
+                                <path d="M340.715992,689 C340.715992,693.970571 264.445023,698 170.359326,698 C76.2736279,698 0,693.970571 0,689 C0,684.029429 76.2736279,680 170.359326,680 C264.445023,680 340.715992,684.029429 340.715992,689" id="Fill-1" fill="#F3F4F6"></path>
+                                <rect id="Rectangle-37" fill="#000000" x="10" y="0" width="324" height="688" rx="48"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
