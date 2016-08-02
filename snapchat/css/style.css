@@ -279,3 +279,27 @@ li{
 	background-color: #eee;
 	color:#333;
 }
+
+.mobile{
+	display: none;
+}
+
+.desk{
+	display:block;
+}
+
+@media (max-width:768px){
+	.mobile{
+		display: block;
+	}
+	
+	.desk{
+		display: none;
+	}
+	.text-center.padlrxs.col-xs-3 > a{
+		font-size: 20px;
+	}
+	h1{
+		font-size: 50px;
+	}
+}
